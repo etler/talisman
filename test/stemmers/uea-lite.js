@@ -67,7 +67,9 @@ describe('uea-lite', function() {
       ['USA', 'USA'],
       ['FLOSS', 'FLOSS'],
       ['MREs', 'MRE'],
-      ['USAED', 'USAED']
+      ['USAED', 'USAED'],
+      ['bed', 'bed'],
+      ['sing', 'sing']
     ];
 
     tests.forEach(function([word, stem]) {
